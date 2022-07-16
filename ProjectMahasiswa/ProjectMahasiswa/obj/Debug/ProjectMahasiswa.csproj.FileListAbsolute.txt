@@ -1,0 +1,6 @@
+D:\ResponsiPemrograman4410\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe.config
+D:\ResponsiPemrograman4410\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\ResponsiPemrograman4410\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\ResponsiPemrograman4410\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojResolveAssemblyReference.cache
+D:\ResponsiPemrograman4410\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\ResponsiPemrograman4410\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
